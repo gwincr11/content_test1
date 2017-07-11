@@ -1,2 +1,4 @@
 ---
 path: 'test/configs.yml'
+namespace:
+  variable: 'test folder'
